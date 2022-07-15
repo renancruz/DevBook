@@ -10,6 +10,7 @@ import (
 	"webapp/src/utils"
 )
 
+
 func main() {
 	config.Carregar()
 	cookies.Configurar()
